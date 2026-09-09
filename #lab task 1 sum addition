@@ -1,0 +1,14 @@
+num1=5
+num2=10
+sum=num1+num2
+print(sum)
+
+num1=25
+num2=30
+sum=num1+num2
+print(sum)
+
+num1=-40
+num2=-30
+sum=num1+num2
+print(sum)
